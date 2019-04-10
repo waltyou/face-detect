@@ -12,7 +12,7 @@
 
 ### MTCNN
 
-模型文件下载地址在[这里](https://github.com/blaueck/tf-mtcnn)。
+模型文件下载地址在[这里](https://raw.githubusercontent.com/cayden/UVCCamera/674dc567810ba70d39a7e533c0c39f06b4dbf68f/usbCameraTest/src/main/assets/mtcnn_freezed_model.pb)。
 
 ## 将人脸图片映射为高维向量。
 
